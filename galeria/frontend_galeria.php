@@ -22,7 +22,7 @@
 
 
             
-             </div>
+    </div>
         </header>
 
         <!-- Contenido principal -->
