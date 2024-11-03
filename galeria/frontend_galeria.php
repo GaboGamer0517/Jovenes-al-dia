@@ -18,10 +18,6 @@
         <header class="text-center mt-5">
             <h1>Bienvenido a Jovenes al dia</h1>
             <p class="lead">Una página simple utilizando Bootstrap</p>
-
-
-
-            
     </div>
         </header>
 
