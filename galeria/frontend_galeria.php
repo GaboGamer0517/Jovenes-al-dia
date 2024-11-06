@@ -43,7 +43,7 @@
             </div>
 
             <div class="col-md-6">
-                   <a href="galeria.php"> <h2> conozca  nuestra  galeria </h2> </a>
+                   <a href="galeria.html"> <h2> conozca  nuestra  galeria </h2> </a>
             </div>
 
             <div class="col-md-6">
